@@ -1,0 +1,6 @@
+Candidate SNPs before final SNP-level QC: 7930
+Pass minInd >= 34: 3812
+Pass MAF >= 0.05: 7806
+Pass minInd >= 34 AND MAF >= 0.05: 3741
+Final QC-filtered SNPs: 2515
+Final retention: 31.7%
