@@ -4,6 +4,9 @@
 .Rproj.user/
 *.Rproj
 
+echo "Rplots.pdf" >> .gitignore
+git add .gitignore
+
 # macOS
 .DS_Store
 

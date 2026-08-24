@@ -114,7 +114,9 @@ table_S3$n_pairs <- as.integer(table_S3$n_pairs)
 cat("\nTABLE S3\n\n")
 print(table_S3, row.names = FALSE)
 
-View(table_S3)
+if (interactive()) {
+  View(table_S3)
+}
 
 # Save table
 dir.create("supplementary", showWarnings = FALSE)

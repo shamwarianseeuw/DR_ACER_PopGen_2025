@@ -1,0 +1,6 @@
+Filter_or_stage	SNPs_retained	Percent_of_candidate_SNPs
+Candidate SNPs before final SNP-level QC	7930	100
+Pass minInd >= 34	3812	48.1
+Pass MAF >= 0.05	7806	98.4
+Pass minInd >= 34 and MAF >= 0.05	3741	47.2
+Final QC-filtered SNPs	2515	31.7

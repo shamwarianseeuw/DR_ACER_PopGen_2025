@@ -193,8 +193,10 @@ stopifnot(
     c("AC1-AC2", "AC1-AC3", "AC2-AC3")
 )
 
-View(table_S4A)
-View(table_S4B)
+if (interactive()) {
+  View(table_S4A)
+  View(table_S4B)
+}
 
 # Save tables
 dir.create("supplementary", showWarnings = FALSE)

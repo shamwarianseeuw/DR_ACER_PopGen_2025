@@ -89,7 +89,9 @@ table_S2 <- data.frame(
 
 print(table_S2, row.names = FALSE)
 
-View(table_S2)
+if (interactive()) {
+  View(table_S2)
+}
 
 #Save table
 dir.create("supplementary", showWarnings = FALSE)

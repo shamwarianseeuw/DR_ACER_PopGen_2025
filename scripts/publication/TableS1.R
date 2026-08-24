@@ -92,7 +92,9 @@ if (calculated_retention != retention) {
 cat("\nTABLE S1\n\n")
 print(table_S1, row.names = FALSE)
 
-View(table_S1)
+if (interactive()) {
+  View(table_S1)
+}
 
 # Save table
 dir.create("supplementary", showWarnings = FALSE)
