@@ -4,7 +4,7 @@ This repository contains analysis scripts, processed genomic data, metadata, and
 
 **Genomic characterization reveals high clonal redundancy in two *Acropora cervicornis* nurseries in the Dominican Republic**
 
-Shamwari Anseeuw Carrasco, Kasey Walsh, Rebecca Garcia-Camps, Ainhoa L. Zubillaga, Aldo Croquer, and Debashish Bhattacharya
+Shamwari Anseeuw Carrasco, Kasey H. Walsh, Rebecca Garcia-Camps, Ainhoa L. Zubillaga, Aldo Croquer, and Debashish Bhattacharya
 
 ## Overview
 
